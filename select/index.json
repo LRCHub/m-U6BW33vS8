@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Prema",
+  "base_artist": "藤井 風",
+  "createdAt": "2026-01-04T10:30:36.843743Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Prema Ane - Original",
+      "artist": "S. P. Balasubrahmanyam feat. Swarnalatha",
+      "has_synced": false,
+      "path": "select/01_Prema_Ane_-_Original_S._P._Balasubrahmanyam_feat._Swarnalatha.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Preminche Premava (From \"Nuvvu Nenu Prema\")",
+      "artist": "Shreya Ghoshal feat. Naresh Ayar",
+      "has_synced": true,
+      "path": "select/02_Preminche_Premava_(From__Nuvvu_Nenu_Prema_)_Shreya_Ghoshal_feat._Naresh_Ayar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kreni Prema Meni",
+      "artist": "Partibrejkers ‎",
+      "has_synced": false,
+      "path": "select/03_Kreni_Prema_Meni_Partibrejkers_‎.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Budi dobra prema sebi",
+      "artist": "Bojan Marović",
+      "has_synced": false,
+      "path": "select/04_Budi_dobra_prema_sebi_Bojan_Marović.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kreni Prema Meni",
+      "artist": "Partibrejkers",
+      "has_synced": true,
+      "path": "select/05_Kreni_Prema_Meni_Partibrejkers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
+      "artist": "Vijai Bulganin feat. Sreerama Chandra",
+      "has_synced": false,
+      "path": "select/06_O_Rendu_Prema_Meghaalila_(First_Love_Song)_[From__Baby_]_Vijai_Bulganin_feat._Sreerama_Chandra.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "O Rendu Prema Meghaalila (First Love Song)",
+      "artist": "Vijai Bulganin",
+      "has_synced": true,
+      "path": "select/07_O_Rendu_Prema_Meghaalila_(First_Love_Song)_Vijai_Bulganin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oh Prema",
+      "artist": "Vishal Chandrashekhar feat. Kapil Kapilan & Chinmayi",
+      "has_synced": true,
+      "path": "select/08_Oh_Prema_Vishal_Chandrashekhar_feat._Kapil_Kapilan_&_Chinmayi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oh Prema",
+      "artist": "Vishal Chandrashekhar, Kapil Kapilan, Chinmayi Sripada",
+      "has_synced": true,
+      "path": "select/09_Oh_Prema_Vishal_Chandrashekhar,_Kapil_Kapilan,_Chinmayi_Sripada.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Prema Vennela (From \"Chitralahari\")",
+      "artist": "Sudharshan Ashok feat. Devi Sri Prasad",
+      "has_synced": true,
+      "path": "select/10_Prema_Vennela_(From__Chitralahari_)_Sudharshan_Ashok_feat._Devi_Sri_Prasad.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Prema Vennela",
+      "artist": "Sudharshan Ashok",
+      "has_synced": true,
+      "path": "select/11_Prema_Vennela_Sudharshan_Ashok.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Budi Bolja Prema Njemu",
+      "artist": "Oliver Dragojevic",
+      "has_synced": true,
+      "path": "select/12_Budi_Bolja_Prema_Njemu_Oliver_Dragojevic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ninyaarele (From \"Ondu Sarala Prema Kathe\")",
+      "artist": "Armaan Malik",
+      "has_synced": false,
+      "path": "select/13_Ninyaarele_(From__Ondu_Sarala_Prema_Kathe_)_Armaan_Malik.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Prema Chaaya",
+      "artist": "Supun Perera",
+      "has_synced": false,
+      "path": "select/14_Prema_Chaaya_Supun_Perera.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ee Prema (From \"Love Mocktail 2\")",
+      "artist": "Nakul Abhyankar feat. Ramya Bhat Abhyankar",
+      "has_synced": true,
+      "path": "select/15_Ee_Prema_(From__Love_Mocktail_2_)_Nakul_Abhyankar_feat._Ramya_Bhat_Abhyankar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ee Prema",
+      "artist": "Nakul Abhyankar",
+      "has_synced": true,
+      "path": "select/16_Ee_Prema_Nakul_Abhyankar.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "O Rendu Prema Meghaalila (First Love Song)",
+      "artist": "Vijai Bulganin, Sreerama Chandra",
+      "has_synced": true,
+      "path": "select/17_O_Rendu_Prema_Meghaalila_(First_Love_Song)_Vijai_Bulganin,_Sreerama_Chandra.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Idega Prema",
+      "artist": "Armaan Malik feat. Shweta Pandit",
+      "has_synced": true,
+      "path": "select/18_Idega_Prema_Armaan_Malik_feat._Shweta_Pandit.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Idega Prema",
+      "artist": "Armaan Malik, Shweta Pandit",
+      "has_synced": true,
+      "path": "select/19_Idega_Prema_Armaan_Malik,_Shweta_Pandit.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Prema",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_Prema_藤井_風.txt"
+    }
+  ]
+}
